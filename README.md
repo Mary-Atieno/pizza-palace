@@ -44,4 +44,4 @@ Copyright (c) [2022] [Mary Atieno]
 ## Authors Info
 
 incase of any bugs feel free to contact me.
-Email: mary.atieno@moringaschool.com
+Email: mary.atieno@student.moringaschool.com
