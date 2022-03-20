@@ -1,0 +1,48 @@
+.nav{
+    background-image: url();
+    text-align: center;
+    background-color: yellow;
+    justify-content: space-between;
+}
+span{
+  color:green;
+}
+.logo{
+    height: 30px;
+    margin: 20px;
+    font-size: 70px;
+    text-decoration: underline;
+    color: red;
+}
+.list{
+    /* color: rgb(236, 18, 18);
+    text-align: center; */
+    justify-content: space-between;
+    /* height: 100px; */
+  width: 20%;
+  background-color: yellow;
+  display: flex;
+  text-decoration: none;
+}
+.tabcontent{
+    background-image: url("../images/piz.jpg");
+    background-repeat: no-repeat;
+    background-position: left; 
+    height: 10%;
+    width: 100%; 
+    color: aliceblue;
+}
+.nav1{
+ background-color:green; 
+ color: black;
+}
+.nav2{
+  background-color: white;
+  color: green;
+}
+/* .delivery{
+  background-color:yellow;
+} */
+.Delivery{
+  background-color: green;
+}
