@@ -34,7 +34,7 @@ JavaScript
 
 ## The live link
 
-[live-link](
+[live-link]( <https://mary-atieno.github.io/pizza-palace/>
 
 ## Licence
 
